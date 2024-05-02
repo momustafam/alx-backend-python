@@ -4,7 +4,7 @@
 
 def floor(n: float) -> int:
     '''Get the floor of a float num.
-    
+
         Paramters:
             - n (float): the float
 
