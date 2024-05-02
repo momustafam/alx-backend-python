@@ -1,14 +1,12 @@
-#!usr/bin/python3
-'''A simple module since it has a simple function add(a, b).'''
-
-
 def add(a: float, b: float) -> float:
-    '''Add two numbers.
+    """
+        adds two floats
 
-    Parameters:
-        - a (float): the first number
-        - b (float): the second number
+        Args:
+            a (float): first number
+            b (float): second number
 
-    Return: Summation of a and b
-    '''
+        Returns:
+            Their sum as a float
+    """
     return a + b
