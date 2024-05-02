@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Simple module since it has only a one simple function sum_list(input_list).'''
+'''Simple module since it has only a simple function sum_list(input_list).'''
 from typing import List
 
 
