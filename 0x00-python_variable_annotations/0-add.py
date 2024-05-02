@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 '''A simple module since it has a simple function add(a, b).'''
 
 
