@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Advanced task 2"""
-from typing import Mapping, Any, TypeVar
+from typing import Mapping, Any, Union, TypeVar
 T = TypeVar("T")
 
 
