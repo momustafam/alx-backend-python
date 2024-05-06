@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 '''Simple module since it has an asynchronous func wait_random(max_delay).'''
 import random
 import asyncio
