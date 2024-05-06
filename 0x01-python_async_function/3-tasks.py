@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env python3
 '''Simple module since it has a simple funciton.'''
 import asyncio
 
